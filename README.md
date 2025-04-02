@@ -16,4 +16,4 @@ By the end of this project, you will:
 ✅ Choose a **custom domain**  
 ✅ Deploy a **containerized web application**  
 ✅ Design and customize your **web application**  
-✅ Answer **review**
+✅ Answer **review questions**
