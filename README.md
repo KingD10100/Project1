@@ -1,13 +1,19 @@
-Overview
-This week, you will use Microsoft Azure to build and host your own web application, secure it with an SSL certificate, and add security features to protect it. This week will incorporate topics from previous modules including: networking, network security, cryptography, terminal, cloud, and web development.
+# Web Application Deployment on Microsoft Azure  
 
-Today, you will build and host your web application.
+## 📌 Overview  
+This project involves building and hosting a web application using **Microsoft Azure**, securing it with an **SSL certificate**, and implementing **security features** to protect it.  
+It integrates multiple topics, including:  
+- Networking  
+- Network Security  
+- Cryptography  
+- Terminal Commands  
+- Cloud Computing  
+- Web Development  
 
-Project Objectives
-By the end of today's class, you will:
-
-Create an Azure web app.
-Choose a domain.
-Deploy a container on the web app.
-Design your custom web application.
-Answer review questions.
+## 🎯 Project Objectives  
+By the end of this project, you will:  
+✅ Create an **Azure Web App**  
+✅ Choose a **custom domain**  
+✅ Deploy a **containerized web application**  
+✅ Design and customize your **web application**  
+✅ Answer **review**
